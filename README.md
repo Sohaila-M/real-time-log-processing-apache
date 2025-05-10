@@ -13,7 +13,7 @@ This project simulates a real-time log processing pipeline using Apache Big Data
 
 ## 📊 Architecture
 
-![Architecture Diagram](images/architecture-diagram.jpg)
+
 
 ---
 
