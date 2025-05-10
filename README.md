@@ -42,7 +42,7 @@ A PySpark application that reads from Kafka in real-time and displays the logs o
    ```bash
    chmod +x lab-logs.sh
    ./lab-logs.sh
-``
+
 
 3. **Start Flume agent to Kafka**
 
